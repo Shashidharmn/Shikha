@@ -29,7 +29,7 @@ public class AppTest
     }
     public static void suite1()
     {
-    	System.out.print("bye");
+    	System.out.print("going");
     }
-    //updated
+    //read
 }
