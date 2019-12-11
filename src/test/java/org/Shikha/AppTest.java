@@ -27,9 +27,9 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
     }
-    public static Test suite1()
+    public static void suite1()
     {
-        return new TestSuite( AppTest.class );
+    	System.out.print("hi");
     }
     //updated
 }
